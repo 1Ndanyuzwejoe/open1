@@ -1,18 +1,18 @@
-let numberOfSeasons = 2;
-let numberOfEpisodes = 3;
+// let numberOfSeasons = 2;
+// let numberOfEpisodes = 3;
 
 
-let episodeTime=45;
-let commercialTime=5;
+// let episodeTime=45;
+// let commercialTime=5;
 
-let totalShowTime=(episodeTime+commercialTime)*numberOfEpisodes*numberOfSeasons;
+// let totalShowTime=(episodeTime+commercialTime)*numberOfEpisodes*numberOfSeasons;
 
-let total= numberOfEpisodes+numberOfSeasons; 
+// let total= numberOfEpisodes+numberOfSeasons; 
 
-let paragraph = document.querySelector('#info');
-paragraph.innerText = `${numberOfSeasons} season, ${numberOfEpisodes} episodes par season 
+// let paragraph = document.querySelector('#info');
+// paragraph.innerText = `${numberOfSeasons} season, ${numberOfEpisodes} episodes par season 
 
-Total viewing time: ${totalShowTime} minutes`
+// Total viewing time: ${totalShowTime} minutes`
 
 // ==============================================================
 
